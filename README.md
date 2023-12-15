@@ -10,9 +10,14 @@
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
 參考資料:
+
 Bit.hdl    https://github.com/wrr606/co112a/blob/master/03/a/Bit.hdl
+
 RAM8.hdl   https://people.duke.edu/~nts9/logicgates/RAM8.hdl
+
 CPU.hdl    https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/CPU.hdl
+
 Memory.hdl https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/Memory.hdl
+
 
 習題內容皆已理解
