@@ -9,15 +9,14 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
-參考資料:
+## 習題內容皆已理解
 
-Bit.hdl    https://github.com/wrr606/co112a/blob/master/03/a/Bit.hdl
+### 參考資料:
 
-RAM8.hdl   https://people.duke.edu/~nts9/logicgates/RAM8.hdl
+- Bit.hdl    https://github.com/wrr606/co112a/blob/master/03/a/Bit.hdl
 
-CPU.hdl    https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/CPU.hdl
+- RAM8.hdl   https://people.duke.edu/~nts9/logicgates/RAM8.hdl
 
-Memory.hdl https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/Memory.hdl
+- CPU.hdl    https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/CPU.hdl
 
-
-習題內容皆已理解
+- Memory.hdl https://github.com/ccc112a/cpu2os/blob/master/03-nand2tetris/05/Memory.hdl
