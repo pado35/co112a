@@ -23,7 +23,6 @@ pos = {'SCREEN':'16384', 'KBD':'24576'}
 for i in range(0,16):
     pos['R'+str(i)] = i
 
-#command = str(input('輸入指令:'))
 with open('input.asm', 'r') as sourse, open('output.hack', 'w') as destination:
     count = -1
     for command in sourse:
@@ -34,7 +33,6 @@ with open('input.asm', 'r') as sourse, open('output.hack', 'w') as destination:
             pos[command.split()[0][1:]] = count
         else:
             count += 1
-    #print(pos)
 
     sourse.seek(0)
     for command in sourse:
